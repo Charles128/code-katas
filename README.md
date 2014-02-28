@@ -1,0 +1,1 @@
+This is where I will be placing code katas that I have worked on.
